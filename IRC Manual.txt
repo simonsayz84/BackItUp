@@ -1,0 +1,4 @@
+/nick HaxNet - change name
+/join #moviegods - to join the channel #moviegods
+/ls  - channel list
+
